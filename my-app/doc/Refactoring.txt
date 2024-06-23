@@ -1,0 +1,11 @@
+1. Simplifying nested conditional statements for better readability
+2. Extracting the logic in a sub-method to make the code more readable and maintainable 
+3. Use of Enchanced for loop instead of iterator
+4. Using early returns to simplify the code and for better readability
+5. Adding consolidated error messages for better understanding
+6. Breaking complex method into smaller parts for better maintainability
+7. Make new method just for print statement for user design to make the structure proper
+8. Removed the never used variables
+9. Fixed the resource leak problem to prevent memory leaks
+10. Fixed the order of command exuction
+11. Changing the varible name proper to avoid confusion
